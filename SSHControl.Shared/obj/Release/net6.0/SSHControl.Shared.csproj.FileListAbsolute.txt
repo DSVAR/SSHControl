@@ -1,0 +1,12 @@
+D:\пробы\Сервак\SSHControl1\SSHControl.Shared\bin\Release\net6.0\SSHControl.Shared.deps.json
+D:\пробы\Сервак\SSHControl1\SSHControl.Shared\bin\Release\net6.0\SSHControl.Shared.dll
+D:\пробы\Сервак\SSHControl1\SSHControl.Shared\bin\Release\net6.0\SSHControl.Shared.pdb
+D:\пробы\Сервак\SSHControl1\SSHControl.Shared\obj\Release\net6.0\SSHControl.Shared.csproj.AssemblyReference.cache
+D:\пробы\Сервак\SSHControl1\SSHControl.Shared\obj\Release\net6.0\SSHControl.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\пробы\Сервак\SSHControl1\SSHControl.Shared\obj\Release\net6.0\SSHControl.Shared.AssemblyInfoInputs.cache
+D:\пробы\Сервак\SSHControl1\SSHControl.Shared\obj\Release\net6.0\SSHControl.Shared.AssemblyInfo.cs
+D:\пробы\Сервак\SSHControl1\SSHControl.Shared\obj\Release\net6.0\SSHControl.Shared.csproj.CoreCompileInputs.cache
+D:\пробы\Сервак\SSHControl1\SSHControl.Shared\obj\Release\net6.0\SSHControl.Shared.dll
+D:\пробы\Сервак\SSHControl1\SSHControl.Shared\obj\Release\net6.0\refint\SSHControl.Shared.dll
+D:\пробы\Сервак\SSHControl1\SSHControl.Shared\obj\Release\net6.0\SSHControl.Shared.pdb
+D:\пробы\Сервак\SSHControl1\SSHControl.Shared\obj\Release\net6.0\ref\SSHControl.Shared.dll

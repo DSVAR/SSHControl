@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSHControl.Server", "SSHControl.Server\SSHControl.Server.csproj", "{6F9361C6-DEF8-4FE8-B942-A8728C3A66B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSHControl.Shared", "SSHControl.Shared\SSHControl.Shared.csproj", "{17992E29-A7F0-4D75-ACB4-D5F661ACB980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSHControl.Client", "SSHControl.Client\SSHControl.Client.csproj", "{EB9A5E61-493F-4554-A780-76FF6CF3BDDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F9361C6-DEF8-4FE8-B942-A8728C3A66B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9361C6-DEF8-4FE8-B942-A8728C3A66B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9361C6-DEF8-4FE8-B942-A8728C3A66B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9361C6-DEF8-4FE8-B942-A8728C3A66B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17992E29-A7F0-4D75-ACB4-D5F661ACB980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17992E29-A7F0-4D75-ACB4-D5F661ACB980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17992E29-A7F0-4D75-ACB4-D5F661ACB980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17992E29-A7F0-4D75-ACB4-D5F661ACB980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB9A5E61-493F-4554-A780-76FF6CF3BDDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9A5E61-493F-4554-A780-76FF6CF3BDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9A5E61-493F-4554-A780-76FF6CF3BDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9A5E61-493F-4554-A780-76FF6CF3BDDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
