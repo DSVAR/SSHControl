@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\пробы\\Сервак\\SSHControl1\\SSHControl.Client\\SSHControl.Client.csproj": {}
+    "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\SSHControl.Client.csproj": {}
   },
   "projects": {
-    "D:\\пробы\\Сервак\\SSHControl1\\SSHControl.Client\\SSHControl.Client.csproj": {
+    "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\SSHControl.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\пробы\\Сервак\\SSHControl1\\SSHControl.Client\\SSHControl.Client.csproj",
+        "projectUniqueName": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\SSHControl.Client.csproj",
         "projectName": "SSHControl.Client",
-        "projectPath": "D:\\пробы\\Сервак\\SSHControl1\\SSHControl.Client\\SSHControl.Client.csproj",
+        "projectPath": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\SSHControl.Client.csproj",
         "packagesPath": "C:\\Users\\Davar\\.nuget\\packages\\",
-        "outputPath": "D:\\пробы\\Сервак\\SSHControl1\\SSHControl.Client\\obj\\",
+        "outputPath": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Davar\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -46,6 +46,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.2, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0-preview.4.22229.4, )"
             },
             "MudBlazor": {
               "target": "Package",

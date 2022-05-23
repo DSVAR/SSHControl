@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4wbLADh4HbkuM8g/Omtkr7sCjX+CvmrYdhD3rH3Ppn6TcYAL3M32KVLBnRSIn/QdzartzSG4Fc3A4SjFnoLM8A==",
+  "dgSpecHash": "U1HTSBQzr0y8qA+o2ZQqCNBI5fk9qF53GWhNt6sCWeYJSz7u8ut9rbvR8dunur3kXdVHEA5r660geR3/CIcWLQ==",
   "success": true,
-  "projectFilePath": "D:\\пробы\\Сервак\\SSHControl1\\SSHControl.Shared\\SSHControl.Shared.csproj",
+  "projectFilePath": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Shared\\SSHControl.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -18,15 +18,16 @@
       "Microsoft.Extensions.Configuration.Binder.dll": "sha256-wNKhG3Ovx8jqxbscz2AALlsTLfI6GL2dyDhe63mSsoM=",
       "Microsoft.Extensions.Configuration.FileExtensions.dll": "sha256-n2fRP2\/1tGNzaCF5PU4hgTSlHK886OviBf2YAds3NdE=",
       "Microsoft.Extensions.Configuration.Json.dll": "sha256-R28\/ywLWxIcFxKtDIj0IxC+bXi4urX6BHeLL24R+vTQ=",
-      "Microsoft.Extensions.DependencyInjection.dll": "sha256-KqgYK1NWqMxcNfw2Qah+gUhX2Nm+OZrHjyYDQ3VNCeA=",
-      "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-nM2DA1GqKLxoPU+NHO\/Z5yQWH5ctJb+2Tu5b9VxIxeM=",
+      "Microsoft.Extensions.DependencyInjection.dll": "sha256-yHIbqthVyGFH\/eL5sIdZ545hIk1Kiz8oWO5ccLiKJsY=",
+      "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-CWmZyFn8+bCyXgVmUVFDAUvQ5UR4LVI1\/ZjFtC6szew=",
       "Microsoft.Extensions.FileProviders.Abstractions.dll": "sha256-7PzvEcQvpK1c8tTX9VPI8AF+XrekqbAytNBQXJjvTvQ=",
       "Microsoft.Extensions.FileProviders.Physical.dll": "sha256-sXujvGMZDgBBZ9HqfcEq9XsM0pvwyhPt60NA9qLDzGI=",
       "Microsoft.Extensions.FileSystemGlobbing.dll": "sha256-viiXOG0fwhWobT0TQ1ZOJiZBdRvYRlWbDtjz+6d8sQI=",
-      "Microsoft.Extensions.Logging.dll": "sha256-GDZQCBtVHfrZZ6fL95lGoinLeUWLjQShLbfESwO7mrc=",
-      "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-w+c+xfLh8QIAwluhugyPc8sPvAmmIC\/UTxnugT7Oido=",
-      "Microsoft.Extensions.Options.dll": "sha256-eGESyy9mRu8RcCGajAu4E8nxSmeB5nxiZkFPVaZ5Vl0=",
-      "Microsoft.Extensions.Primitives.dll": "sha256-jOmoWSfsdQexH\/6QCA56gR1RMEqeix2iDDUBWbpAOQI=",
+      "Microsoft.Extensions.Http.dll": "sha256-4t+SJQbTJHUpWBI3taW8oaeOWsOu8mioR7mOB4Zr\/Ck=",
+      "Microsoft.Extensions.Logging.dll": "sha256-PhWMtLSBzMVSNhGSw484+s9a0qn72Oz0TaCkRqtl0sQ=",
+      "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-CerQoqKeWYuVtIrYXP0mAOMrMtPZK1SOwCF3OUIsg10=",
+      "Microsoft.Extensions.Options.dll": "sha256-hBcvN77J7sP5lQdY+eDJWaVcQWpzUcPHB2J3+v0AYLo=",
+      "Microsoft.Extensions.Primitives.dll": "sha256-1JI\/BfpeGqhSqMLG0Koiq\/nBiyv130UIlfgt9bDyqDE=",
       "Microsoft.JSInterop.dll": "sha256-jk2\/Vyub2GwMGkeIaCH7i0wYYpcirlDPEBjrjmB47Es=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-x6oiDUwhHmg2BfCJ43UGTPi2SSASRtEyFgka5LU8eRM=",
       "MudBlazor.dll": "sha256-N8OntIImtRTymxWAyRXmiqLo\/izwqpytlMhP6Z1Qfdw=",
@@ -197,13 +198,13 @@
       "mscorlib.dll": "sha256-c1dVVfosFaf5aiS3brr2amBi1Ue0kg6mqECzmCbGyfA=",
       "netstandard.dll": "sha256-+9Yr\/gSP3tCZAMbOdAcGhHGuMcyg\/AaxVKtt3tGsvao=",
       "System.Private.CoreLib.dll": "sha256-SnxOe5QK250duVAQOw0iWr1sODhUuVEUykExQyQ\/WSk=",
-      "SSHControl.Client.dll": "sha256-a8jfNyxevVwVc4Ag50hlgaEEzxCCr+EdGqKNQQ2fhpM="
+      "SSHControl.Client.dll": "sha256-iuIaYfgwAGb02p43nCoYhqoJIP+fX7Hjm9ry7zJB9nQ="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "SSHControl.Client.pdb": "sha256-n\/XtBw5DrvBiMD9Bv6UIUIVkgxNe2PRldcuFm0oHfgg="
+      "SSHControl.Client.pdb": "sha256-mheF4UK2Q+eQol3sqpNnYSb\/gVUu8iGeMlNGmja669U="
     },
     "runtime": {
       "dotnet.6.0.2.s4r4vdwqlf.js": "sha256-wbTVn69TU0+WI83iB+kky8tf\/BjZdYJeM0rUP96ur\/c=",
