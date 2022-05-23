@@ -38,14 +38,18 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[6.0.2, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.2, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.Extensions.Http": {
               "target": "Package",

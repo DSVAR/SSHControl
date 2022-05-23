@@ -31,11 +31,9 @@
     </ItemGroup>
 
     <ItemGroup>
-      <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="6.0.2" />
-      <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Authentication" Version="6.0.2" />
-      <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="6.0.2" />
-      <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="6.0.2" />
-      <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="6.0.2" />
+      <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="6.0.5" />
+      <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="6.0.5" />
+      <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="6.0.3" />
       <PackageReference Include="SSH.NET" Version="2020.0.1" />
     </ItemGroup>
 

@@ -398,7 +398,6 @@ D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\refs\Mi
 D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
 D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
 D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
-D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
 D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
 D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
@@ -561,7 +560,6 @@ D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\refs\Sy
 D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
 D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
 D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
-D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
 D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
 D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\refs\System.IO.Pipes.dll
 D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
@@ -672,7 +670,6 @@ D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\Microso
 D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
 D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
 D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
-D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
 D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
 D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
 D:\пробы\Сервак\SSHControl\SSHControl.Server\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll

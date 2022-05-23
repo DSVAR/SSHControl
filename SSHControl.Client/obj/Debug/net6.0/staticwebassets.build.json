@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2df4ZLIDejcx4XrDJRvLWh2s2PKp+OFmOkSJP+34hK0=",
+  "Hash": "YdXoyutvpkAg2/sAzOcTB/jD+HAJONRiJpflLXf15GM=",
   "Source": "SSHControl.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -82,7 +82,7 @@
       "AssetTraitValue": "boot",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.2\\build\\net6.0\\blazor.webassembly.js"
+      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.5\\build\\net6.0\\blazor.webassembly.js"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.6.0.2.s4r4vdwqlf.js",
@@ -218,7 +218,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.4\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
+      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "SourceId": "SSHControl.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -235,7 +252,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.4\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -252,7 +269,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.4\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
@@ -269,7 +286,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.4\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
+      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
@@ -286,7 +303,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.2\\lib\\net6.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
+      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
@@ -303,7 +320,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.4\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -592,7 +609,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.jsinterop\\6.0.4\\lib\\net6.0\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.jsinterop\\6.0.5\\lib\\net6.0\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
@@ -609,7 +626,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.2\\lib\\net6.0\\Microsoft.JSInterop.WebAssembly.dll"
+      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.5\\lib\\net6.0\\Microsoft.JSInterop.WebAssembly.dll"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.dll",
@@ -1612,7 +1629,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\system.io.pipelines\\6.0.2\\lib\\net6.0\\System.IO.Pipelines.dll"
+      "OriginalItemSpec": "C:\\Users\\Davar\\.nuget\\packages\\system.io.pipelines\\6.0.3\\lib\\net6.0\\System.IO.Pipelines.dll"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipes.AccessControl.dll",
@@ -4029,7 +4046,7 @@
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Numerics.dll"
     },
     {
-      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\7AZmNqVU.gz",
+      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\7HobNIlU.gz",
       "SourceId": "SSHControl.Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
@@ -4044,6 +4061,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
+      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\7qeYlKNr.gz",
+      "SourceId": "SSHControl.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\85E9XTfR.gz",
@@ -4233,23 +4267,6 @@
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Console.dll"
     },
     {
-      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\b+zb+2AC.gz",
-      "SourceId": "SSHControl.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll"
-    },
-    {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\B7MjD6Ep.gz",
       "SourceId": "SSHControl.Client",
       "SourceType": "Computed",
@@ -4335,23 +4352,6 @@
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Formats.Asn1.dll"
     },
     {
-      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\briD2e+5.gz",
-      "SourceId": "SSHControl.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
-    },
-    {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\bSinQciR.gz",
       "SourceId": "SSHControl.Client",
       "SourceType": "Computed",
@@ -4420,6 +4420,23 @@
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Algorithms.dll"
     },
     {
+      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\BvXhgoNH.gz",
+      "SourceId": "SSHControl.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll"
+    },
+    {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\c+Cgq3Dv.gz",
       "SourceId": "SSHControl.Client",
       "SourceType": "Computed",
@@ -4469,23 +4486,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipes.dll"
-    },
-    {
-      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\cCHecNki.gz",
-      "SourceId": "SSHControl.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/blazor.webassembly.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\cdEmEnf3.gz",
@@ -4605,6 +4605,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
+    },
+    {
+      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\dxFwjIK2.gz",
+      "SourceId": "SSHControl.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.IO.Pipelines.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipelines.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipelines.dll"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\dxLpF+li.gz",
@@ -4828,6 +4845,23 @@
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.6.0.2.s4r4vdwqlf.js"
     },
     {
+      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\H4nmJtz+.gz",
+      "SourceId": "SSHControl.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/blazor.webassembly.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js"
+    },
+    {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\H5uw6bpx.gz",
       "SourceId": "SSHControl.Client",
       "SourceType": "Computed",
@@ -5015,23 +5049,6 @@
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.dll"
     },
     {
-      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\J1CblZ9i.gz",
-      "SourceId": "SSHControl.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
-    },
-    {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\J7AM42lf.gz",
       "SourceId": "SSHControl.Client",
       "SourceType": "Computed",
@@ -5081,6 +5098,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.FileSystem.AccessControl.dll"
+    },
+    {
+      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\jVtaaItV.gz",
+      "SourceId": "SSHControl.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\K9yIh+cU.gz",
@@ -5219,21 +5253,21 @@
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
-      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\lAPvWhiz.gz",
+      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\lDnpoDSe.gz",
       "SourceId": "SSHControl.Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\lMFMg4m8.gz",
@@ -5336,23 +5370,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Claims.dll"
-    },
-    {
-      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\Ml1q+n+r.gz",
-      "SourceId": "SSHControl.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\mQUKYkDV.gz",
@@ -5540,23 +5557,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.MemoryMappedFiles.dll"
-    },
-    {
-      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\oxZ4+AgX.gz",
-      "SourceId": "SSHControl.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\oYjBPbc3.gz",
@@ -5899,23 +5899,6 @@
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Linq.Parallel.dll"
     },
     {
-      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\QtPp0wZF.gz",
-      "SourceId": "SSHControl.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll"
-    },
-    {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\QYQqjRyR.gz",
       "SourceId": "SSHControl.Client",
       "SourceType": "Computed",
@@ -6033,6 +6016,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ObjectModel.dll"
+    },
+    {
+      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\s6MM+twZ.gz",
+      "SourceId": "SSHControl.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\scBECFIR.gz",
@@ -6290,6 +6290,23 @@
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Core.dll"
     },
     {
+      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\uqtxuTik.gz",
+      "SourceId": "SSHControl.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll"
+    },
+    {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\uVoXAAES.gz",
       "SourceId": "SSHControl.Client",
       "SourceType": "Computed",
@@ -6526,6 +6543,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.Serialization.dll"
+    },
+    {
+      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\wpk9ZlkL.gz",
+      "SourceId": "SSHControl.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\X+DearIB.gz",
@@ -6817,6 +6851,23 @@
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.RegularExpressions.dll"
     },
     {
+      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\ZK9kLPkb.gz",
+      "SourceId": "SSHControl.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll"
+    },
+    {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\zoJT7Osu.gz",
       "SourceId": "SSHControl.Client",
       "SourceType": "Computed",
@@ -6883,23 +6934,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebProxy.dll"
-    },
-    {
-      "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\build-gz\\ZYzBUbLs.gz",
-      "SourceId": "SSHControl.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/System.IO.Pipelines.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipelines.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipelines.dll"
     },
     {
       "Identity": "D:\\пробы\\Сервак\\SSHControl\\SSHControl.Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SSHControl.Client.styles.css",

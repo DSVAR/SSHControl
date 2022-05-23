@@ -38,14 +38,18 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[6.0.2, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.2, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.Extensions.Http": {
               "target": "Package",
@@ -127,25 +131,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Components.WebAssembly": {
+            "Microsoft.AspNetCore.Authorization": {
               "target": "Package",
-              "version": "[6.0.2, )"
-            },
-            "Microsoft.AspNetCore.Components.WebAssembly.Authentication": {
-              "target": "Package",
-              "version": "[6.0.2, )"
-            },
-            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
-              "target": "Package",
-              "version": "[6.0.2, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
-              "version": "[6.0.2, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
-              "version": "[6.0.2, )"
+              "version": "[6.0.3, )"
             },
             "SSH.NET": {
               "target": "Package",
