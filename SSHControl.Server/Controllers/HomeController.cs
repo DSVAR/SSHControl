@@ -6,7 +6,7 @@ namespace SSHControl.Server.Controllers
   
     [Route("[controller]")]
     [ApiController]
-    public class HomeController : ControllerBase
+    public class HomeController : Controller
     {
         // GET
         [HttpGet("Index")]
